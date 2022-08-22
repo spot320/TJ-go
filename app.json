@@ -1,0 +1,12 @@
+{
+    "name": "i-go",
+    "description": "go",
+    "env": {
+        "PASSWORD": {
+            "description": "PASSWORD",
+            "value": "password"
+        }
+    },
+    
+    "stack": "container"
+}
